@@ -1,0 +1,10 @@
+ga4_measurement_id:
+  default: "G-6ZX96L7J8J"
+  description: "GA4 measurement ID. Leave empty to turn off both the banner and analytics."
+privacy_policy_url:
+  default: "https://www.open-emr.org/privacy/"
+  description: "Linked from the consent banner."
+extend_content_security_policy:
+  type: list
+  default: "script_src: https://www.googletagmanager.com"
+  description: "Allows the GA4 script to load. Leave as is."

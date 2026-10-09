@@ -1,0 +1,6 @@
+{
+  "name": "OpenEMR Analytics Consent",
+  "component": true,
+  "about_url": "https://github.com/stephenwaite/discourse-openemr-consent",
+  "authors": "OpenEMR Foundation"
+}
