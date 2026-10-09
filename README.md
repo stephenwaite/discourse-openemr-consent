@@ -37,3 +37,7 @@ The consent logic in `javascripts/discourse/lib/analytics-consent.js` was tested
 - blocked browser storage.
 
 The SCSS compiles, and the settings and metadata files parse. **It hasn't been run inside a real Discourse instance**, so try it on a test theme first.
+
+## License
+
+GNU General Public License v3.0, the same license as OpenEMR. See [LICENSE](LICENSE).
